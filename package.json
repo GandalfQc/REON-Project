@@ -1,0 +1,11 @@
+{
+  "name": "reon-public-site",
+  "version": "1.0.0",
+  "description": "REON public letter and presentation site",
+  "scripts": {
+    "start": "serve ."
+  },
+  "dependencies": {
+    "serve": "^14.2.0"
+  }
+}
